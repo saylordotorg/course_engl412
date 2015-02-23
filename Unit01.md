@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL412: Restoration & Eighteenth-century Drama"
+course_description: "A survey of European drama of the late 17th through late 18th centuries, including close readings of such dramas as Faust, All for Love, and The Beggar's Opera."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: An Introduction to Restoration & Eighteenth-century History
 and Culture** <span id="1"></span> 
 *The English Civil war erupted as a result of disputes over the proper

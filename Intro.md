@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL412: Restoration & Eighteenth-century Drama"
+course_description: "A survey of European drama of the late 17th through late 18th centuries, including close readings of such dramas as Faust, All for Love, and The Beggar's Opera."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "ENGL412: Restoration & Eighteenth-century Drama"
 ---------------------------------------------------------------------
 

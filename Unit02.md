@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL412: Restoration & Eighteenth-century Drama"
+course_description: "A survey of European drama of the late 17th through late 18th centuries, including close readings of such dramas as Faust, All for Love, and The Beggar's Opera."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Major Restoration & Eighteenth-century British Dramatic
 Movements & Dramatists** <span id="2"></span> 
 *Now that we have a thorough historical account of the Restoration and

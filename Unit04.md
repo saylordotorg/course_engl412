@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL412: Restoration & Eighteenth-century Drama"
+course_description: "A survey of European drama of the late 17th through late 18th centuries, including close readings of such dramas as Faust, All for Love, and The Beggar's Opera."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: French Drama: Harlequin Comedy & Other Genres** <span
 id="4"></span> 
 *In this unit, we will expand our nationalistic perspective on the drama
