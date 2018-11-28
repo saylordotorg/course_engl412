@@ -225,9 +225,9 @@ id="1.2.3"></span> 
     II: Many Enlightenments?”**
     Links: OpenLearn LabSpace: David Roden’s [“The Enlightenment Habit,
     Part I: Revolutionary
-    Skepticism”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ENGL412-1.2.1-TheEnlightenmentHabitPart1.pdf)
+    Skepticism”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/ENGL412-1.2.1-TheEnlightenmentHabitPart1.pdf)
     (PDF) and [“The Enlightenment Habit, Part II: Many
-    Enlightenments?”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ENGL412-1.2.1-TheEnlightenmentHabitPart2.pdf)
+    Enlightenments?”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/ENGL412-1.2.1-TheEnlightenmentHabitPart2.pdf)
     (PDF)  
         
      Instructions: Read these pages, which provide an introduction to
